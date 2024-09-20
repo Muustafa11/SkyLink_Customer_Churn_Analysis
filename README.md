@@ -7,18 +7,30 @@ The analysis primarily focuses on understanding the relationship between custome
 # Key Questions Answered
 The analysis addresses the following key business questions:
 
-Overall Churn Rate: What is the current churn rate, and what is the most prevalent churn category?
-Churn by State: Is the churn rate different per state? Which state has the highest churn rate?
-Churn by Age Group: How does churn vary between different age groups? What’s the relationship between age and churn?
-Group Size Impact: For customers in groups, what group size has the lowest churn rate?
-Contract Type Influence: Is there a difference in churn between customers with yearly contracts and those with monthly contracts?
-Unlimited Data Plan: How does having an unlimited data plan influence churn rates and data consumption (GB)?
-International Activity: How does customers’ international activity (international plan, international minutes) affect churn?
-Customer Service Calls Impact: What insights can we gather from the customer service calls data, and is there a relationship between customer service calls and churn?
-Demographic Churn Rate: What is the churn rate for customers aged 50+ who are not in a group plan and have an account length of 12 months or less?
-Payment Method and Contract Type Correlation: Is there a relationship between payment method, contract type, months of tenure, and customer churn?
-Monthly Contract Direct Debit Customers: What is the average number of customer service calls for customers on a monthly contract who pay by direct debit? What is the churn rate for those customers?
-Extra Data Charges: What are the average extra data charges for customers not on an unlimited data plan who consumed more than 10GB?
+1-Overall Churn Rate: What is the current churn rate, and what is the most prevalent churn category?
+
+2-Churn by State: Is the churn rate different per state? Which state has the highest churn rate?
+
+3-Churn by Age Group: How does churn vary between different age groups? What’s the relationship between age and churn?
+
+4-Group Size Impact: For customers in groups, what group size has the lowest churn rate?
+
+5-Contract Type Influence: Is there a difference in churn between customers with yearly contracts and those with monthly contracts?
+
+6-Unlimited Data Plan: How does having an unlimited data plan influence churn rates and data consumption (GB)?
+
+7-International Activity: How does customers’ international activity (international plan, international minutes) affect churn?
+
+8-Customer Service Calls Impact: What insights can we gather from the customer service calls data, and is there a relationship between customer service calls and churn?
+
+9-Demographic Churn Rate: What is the churn rate for customers aged 50+ who are not in a group plan and have an account length of 12 months or less?
+
+10-Payment Method and Contract Type Correlation: Is there a relationship between payment method, contract type, months of tenure, and customer churn?
+
+11-Monthly Contract Direct Debit Customers: What is the average number of customer service calls for customers on a monthly contract who pay by direct debit? What is the churn rate for those customers?
+
+12-Extra Data Charges: What are the average extra data charges for customers not on an unlimited data plan who consumed more than 10GB?
+
 # Project Files
 Dashboard Screenshots: Power BI visualizations and insights, focusing on churn analysis.
 DAX Measures: DAX formulas used to calculate churn rate, customer service call averages, group size churn, and other metrics.
