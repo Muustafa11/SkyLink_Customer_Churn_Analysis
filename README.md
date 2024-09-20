@@ -38,8 +38,10 @@ Dataset: The fictional customer churn data used for the analysis (not included, 
 Power BI Reports: The .pbix file for Power BI analysis (if applicable).
 # Tools & Technologies Used
 Power BI: To create interactive dashboards, charts, and visualizations.
+
 DAX (Data Analysis Expressions): For writing custom measures and calculated columns in Power BI.
-Excel/CSV: For data wrangling and transformation before importing into Power BI.
+
+Power Query: For data wrangling and transformation before importing into Power BI.
 # How to Use
 Clone the Repository: Clone the repository to your local machine using the following command:
 
